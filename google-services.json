@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "951805977344",
+    "firebase_url": "https://instagram-android-feb05.firebaseio.com",
+    "project_id": "instagram-android-feb05",
+    "storage_bucket": "instagram-android-feb05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951805977344:android:4911b2f0e95f196c",
+        "android_client_info": {
+          "package_name": "com.hungservers.firebasetestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951805977344-stkfsv8h7874fgqeladi6rmmsi6vnor4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hungservers.firebasetestapp",
+            "certificate_hash": "10297D95EADE1CCC91D239A9A515ACA764542F84"
+          }
+        },
+        {
+          "client_id": "951805977344-r1ushpraisj0lninin65ns92n85ibjio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAMr8Udr5SjEgQsjApfmaeHsqKTht93cI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951805977344-r1ushpraisj0lninin65ns92n85ibjio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951805977344:android:151d1c6fbdf4fb2f",
+        "android_client_info": {
+          "package_name": "com.hungservers.firebasetestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951805977344-t1kv7iram75tiluonsdcreuvtgvb4tqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hungservers.firebasetestapp",
+            "certificate_hash": "10297D95EADE1CCC91D239A9A515ACA764542F84"
+          }
+        },
+        {
+          "client_id": "951805977344-r1ushpraisj0lninin65ns92n85ibjio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAMr8Udr5SjEgQsjApfmaeHsqKTht93cI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951805977344-r1ushpraisj0lninin65ns92n85ibjio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

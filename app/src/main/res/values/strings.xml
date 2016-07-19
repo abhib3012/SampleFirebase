@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample Firebase</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView2">Sample Text</string>
+    <string name="textView1">Small Text</string>
+</resources>
